@@ -62,7 +62,7 @@ This section will contain a list of all the different projects I have been worki
 | First | World of Trash | Java based game | T510047101 | Public | [Link](https://github.com/esbendamkjaer/SE01-SE-T5G3-SI1-PRO) |
 | Second | TV2 Credit Management System | CMS | T510043101 | Public | [Link](https://github.com/amatzen/SE02-SE-G02-SPRO) |
 | Third | Interactive Distributed Software Systems | Operations team for a streaming app | T510030101 | Private | - |
-| Fourth | Intelligent Software Systems | LibGDX game | T510034101 | Public | [Link](https://github.com/amatzen/SE04-SE-G09-SPRO) |
+| Fourth | Grand Theft Gørding | LibGDX game | T510034101 | Public | [Link](https://github.com/amatzen/SE04-SE-G09-SPRO) |
 | Fifth | No Semesterproject | - | - | - | - |
 | Sixth | [REDACTED] | Bachelorproject | T510012101 | Confidential (5 years from now) | - |
 
@@ -70,7 +70,7 @@ This section will contain a list of all the different projects I have been worki
 `Java`, `C#`, `C++`, `Python`, `JavaScript`, `HTML`, `CSS`, `Sass`, `SQL`, `PHP`, `Dart`, `Kotlin`, `Bash`, `Markdown`, `LaTeX`, `XML`, `JSON`, `YAML`, `Dockerfile`, `Makefile`, `R`, `TypeScript`.
 
 # Technologies Used
-`Git`, `GitHub`, `GitLab`, `Docker`, `Kubernetes`, `Postman`, `Visual Studio Code`, `IntelliJ`, `PyCharm`, `DataGrip`, `WebStorms`, `Android Studio`, `Xcode`, `GIMP`, `Adobe Photoshop`, `MongoDB`, `pgAdmin 4`, `MySQL`, `SQLite`, `Redis`, `Elasticsearch`, `Kibana`, `Prometheus`, `Grafana`, `Nginx`, `Apache`, `Trello`, `Discord`, `Zoom`, `Teams`, `Google Cloud`, `Linode`, `Cloudflare`, `JavaFX`, `SceneBuilder`, `Spring`, `Laravel`, `React`, `VueJS` `React Native`, `Flutter`, `Tensorflow`, `Keras`, `Jupyter`, `Kafka`, `Hibernate`, `Virtualbox`, `Wireshark`, `GitKraken`, `Notion`, `Rstudio`, `Maple`, `Bootstrap`, `Tailwind`, `Bulma`, `TeXstudio`, `Overleaf`, `Figma`, `Draw.io`. 
+`Git`, `GitHub`, `GitLab`, `Docker`, `Kubernetes`, `Postman`, `Visual Studio Code`, `IntelliJ`, `PyCharm`, `DataGrip`, `WebStorms`, `Android Studio`, `Xcode`, `GIMP`, `Adobe Photoshop`, `MongoDB`, `pgAdmin 4`, `MySQL`, `SQLite`, `Redis`, `Elasticsearch`, `Kibana`, `Prometheus`, `Grafana`, `Nginx`, `Apache`, `Trello`, `Discord`, `Zoom`, `Teams`, `Google Cloud`, `Linode`, `Cloudflare`, `JavaFX`, `SceneBuilder`, `Spring`, `Laravel`, `React`, `VueJS` `React Native`, `Angular` `Flutter`, `Tensorflow`, `Keras`, `Jupyter`, `Kafka`, `Hibernate`, `Virtualbox`, `Wireshark`, `GitKraken`, `Notion`, `Rstudio`, `Maple`, `Bootstrap`, `Tailwind`, `Bulma`, `TeXstudio`, `Overleaf`, `Figma`, `Draw.io`. 
 
 # Credits and Acknowledgements
 Lots of projects, assignments and homework have been done in collaboration with the following guys. They are all great people and I am very thankful for their help and support throughout the years.
