@@ -75,11 +75,11 @@ This section will contain a list of all the different projects I have been worki
 # Credits and Acknowledgements
 Lots of projects, assignments and homework have been done in collaboration with the following guys. They are all great people and I am very thankful for their help and support throughout the years.
 
-- [Alexander](https://github.com/amatzen) (the controversial one)
+- [Alexander](https://github.com/amatzen) (troll+takes master)
 - [Ashvikan](https://github.com/Ashvikan) (the gamer in disguise)
-- [Esben](https://github.com/esbendamkjaer) (the mastermind)
-- [Daniel](https://github.com/danielbahrami) (the constant troller)
-- [Jasan](https://github.com/jasanfarah) (the proscrastinator)
+- [Esben](https://github.com/esbendamkjaer) (troll+takes master)
+- [Daniel](https://github.com/danielbahrami) (troll+ takes master at sdu)
+- [Berkan](https://github.com/berkanktk) (troll)
 
 # Whats Next?
 Take 1 year off before starting my masters in Cybersecurity at Aalborg University. What I want to do during this year?
