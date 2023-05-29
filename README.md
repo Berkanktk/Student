@@ -76,10 +76,10 @@ This section will contain a list of all the different projects I have been worki
 Lots of projects, assignments and homework have been done in collaboration with the following guys. They are all great people and I am very thankful for their help and support throughout the years.
 
 - [Alexander](https://github.com/amatzen) (the controversial one)
-- [Ashvikan](https://github.com/Ashvikan) (the gamer in disguise)
+- [Ashvikan](https://github.com/Ashvikan) (the gamer in workwear)
 - [Esben](https://github.com/esbendamkjaer) (the mastermind)
 - [Daniel](https://github.com/danielbahrami) (the constant troller)
-- [Jasan](https://github.com/jasanfarah) (the proscrastinator)
+- [Jasan](https://github.com/jasanfarah) (hates the master's programme)
 
 # Whats Next?
 Take 1 year off before starting my masters in Cybersecurity at Aalborg University. What I want to do during this year?
