@@ -79,7 +79,7 @@ Lots of projects, assignments and homework have been done in collaboration with 
 - [Ashvikan](https://github.com/Ashvikan) (the gamer in disguise)
 - [Esben](https://github.com/esbendamkjaer) (the mastermind)
 - [Daniel](https://github.com/danielbahrami) (the constant troller)
-- [Jasan](https://github.com/jasanfarah) (the proscrastinator)
+- [Jasan](https://github.com/jasanfarah) (the curious mind)
 
 # Whats Next?
 Take 1 year off before starting my masters in Cybersecurity at Aalborg University. What I want to do during this year?
