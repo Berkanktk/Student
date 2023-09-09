@@ -64,7 +64,7 @@ This section will contain a list of all the different projects I have been worki
 | Third | Interactive Distributed Software Systems | Operations team for a streaming app | T510030101 | Private | - |
 | Fourth | Grand Theft Gørding | LibGDX game | T510034101 | Public | [Link](https://github.com/amatzen/SE04-SE-G09-SPRO) |
 | Fifth | No Semesterproject | - | - | - | - |
-| Sixth | [REDACTED] | Bachelorproject | T510012101 | Confidential (5 years from now) | - |
+| Sixth | OSINT Collection and Automation within Battle Management Systems | Bachelorproject | T510012101 | Confidential (5 years from now) | - |
 
 # Programming and markup languages used
 `Java`, `C#`, `C++`, `Python`, `JavaScript`, `HTML`, `CSS`, `Sass`, `SQL`, `PHP`, `Dart`, `Kotlin`, `Bash`, `Markdown`, `LaTeX`, `XML`, `JSON`, `YAML`, `Dockerfile`, `Makefile`, `R`, `TypeScript`.
