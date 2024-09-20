@@ -64,28 +64,13 @@ This section will contain a list of all the different projects I have been worki
 | Third | Interactive Distributed Software Systems | Operations team for a streaming app | T510030101 | Private | - |
 | Fourth | Grand Theft Gørding | LibGDX game | T510034101 | Public | [Link](https://github.com/amatzen/SE04-SE-G09-SPRO) |
 | Fifth | No Semesterproject | - | - | - | - |
-| Sixth | OSINT Collection and Automation within Battle Management Systems | Bachelorproject | T510012101 | Confidential | - |
+| Sixth | OSINT Collection and Automation within Battle Management Systems | Bachelorproject | T510012101 | NDA | - |
 
 # Programming and markup languages used
 `Java`, `Python`, `JavaScript`, `HTML`, `CSS`, `Sass`, `SQL`, `PHP`, `Dart`, `Kotlin`, `Bash`, `Markdown`, `LaTeX`, `XML`, `JSON`, `YAML`, `Dockerfile`, `Makefile`, `R`, `TypeScript`.
 
 # Technologies Used
 `Git`, `GitHub`, `GitLab`, `Docker`, `Kubernetes`, `Postman`, `Visual Studio Code`, `IntelliJ`, `PyCharm`, `DataGrip`, `WebStorms`, `Android Studio`, `Xcode`, `GIMP`, `Adobe Photoshop`, `MongoDB`, `pgAdmin 4`, `MySQL`, `SQLite`, `Redis`, `Elasticsearch`, `Kibana`, `Prometheus`, `Grafana`, `Nginx`, `Apache`, `Trello`, `Discord`, `Zoom`, `Teams`, `Google Cloud`, `Linode`, `Cloudflare`, `JavaFX`, `SceneBuilder`, `Spring`, `Laravel`, `React`, `VueJS` `React Native`, `Angular` `Flutter`, `Tensorflow`, `Keras`, `Jupyter`, `Kafka`, `Hibernate`, `Virtualbox`, `Wireshark`, `GitKraken`, `Notion`, `Rstudio`, `Maple`, `Bootstrap`, `Tailwind`, `Bulma`, `TeXstudio`, `Overleaf`, `Figma`, `Draw.io`. 
-
-# Credits and Acknowledgements
-Lots of projects, assignments and homework have been done in collaboration with the following guys. They are all great people and I am very thankful for their help and support throughout the years.
-
-- [Alexander](https://github.com/amatzen) (the controversial one)
-- [Ashvikan](https://github.com/Ashvikan) (the gamer in disguise)
-- [Esben](https://github.com/esbendamkjaer) (the mastermind)
-- [Daniel](https://github.com/danielbahrami) (the constant troller)
-- [Jasan](https://github.com/jasanfarah) (the curious mind)
-
-# Whats Next?
-Take 1 year off before starting my masters in Cybersecurity at Aalborg University. What I want to do during this year?
-1. Get a job in the field of Software Development or Cybersecurity.
-2. Traveling and exploring the world.
-3. Lots of Indie Hacking and open source contributions.
 4. Improve my skills in the field of software development and cybersecurity.
 5. Improve my 3D modeling and 3D printing skills.
 6. At least one game to be released on Steam.
