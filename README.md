@@ -1,8 +1,20 @@
 # Student
-This is a repo containing information from my university time at University of Southern Denmark from 2020-2023. 
+The information is divided into different sections, including courses, projects, and learning outcomes. 
+
+1. [Software Engineering, BSc. (University of Southern Denmark)](#software-engineering-bsc-university-of-southern-denmark)
+   1. [Course Specific Projects](#course-specific-projects)
+   2. [Semester Specific Projects](#semester-specific-projects)
+   3. [Programming and markup languages used](#programming-and-markup-languages-used)
+   4. [Technologies Used](#technologies-used)
+2. [Cyber Security, MSc. (Aalborg University Copenhagen)](#cyber-security-msc-aalborg-university-copenhagen)
+   1. [Semester Specific Projects](#semester-specific-projects)
+   2. [Learning Outcomes](#learning-outcomes)
 
 
-# Courses
+# Software Engineering, BSc. (University of Southern Denmark)
+Information from my university time at University of Southern Denmark from 2020-2023.
+
+## Courses
 | Semester | Course | ECTS | Number | Visibility | Repository |
 |---|---|---|---|---|---|
 | First | Computer Systems | 5 | T510023102 | Private | - |
@@ -29,9 +41,6 @@ This is a repo containing information from my university time at University of S
 | Sixth | Software Architectures | 5 | T510033101 | Private | - |
 | Sixth | Scienctific Theory of Engineering | 3 | T540008101 | Private | - |
 | Sixth | Project management and preliminary investigation | 7 | T510037101 | Private | - |
-
-# Projects
-This section will contain a list of all the different projects I have been working on during my time at the University.
 
 ## Course Specific Projects
 | Semester | Course | Description | Number | Visibility | Repository |
@@ -66,12 +75,34 @@ This section will contain a list of all the different projects I have been worki
 | Fifth | No Semesterproject | - | - | - | - |
 | Sixth | OSINT Collection and Automation within Battle Management Systems | Bachelorproject | T510012101 | NDA | - |
 
-# Programming and markup languages used
+## Programming and markup languages used
 `Java`, `Python`, `JavaScript`, `HTML`, `CSS`, `Sass`, `SQL`, `PHP`, `Dart`, `Kotlin`, `Bash`, `Markdown`, `LaTeX`, `XML`, `JSON`, `YAML`, `Dockerfile`, `Makefile`, `R`, `TypeScript`.
 
-# Technologies Used
+## Technologies Used
 `Git`, `GitHub`, `GitLab`, `Docker`, `Kubernetes`, `Postman`, `Visual Studio Code`, `IntelliJ`, `PyCharm`, `DataGrip`, `WebStorms`, `Android Studio`, `Xcode`, `GIMP`, `Adobe Photoshop`, `MongoDB`, `pgAdmin 4`, `MySQL`, `SQLite`, `Redis`, `Elasticsearch`, `Kibana`, `Prometheus`, `Grafana`, `Nginx`, `Apache`, `Trello`, `Discord`, `Zoom`, `Teams`, `Google Cloud`, `Linode`, `Cloudflare`, `JavaFX`, `SceneBuilder`, `Spring`, `Laravel`, `React`, `VueJS` `React Native`, `Angular` `Flutter`, `Tensorflow`, `Keras`, `Jupyter`, `Kafka`, `Hibernate`, `Virtualbox`, `Wireshark`, `GitKraken`, `Notion`, `Rstudio`, `Maple`, `Bootstrap`, `Tailwind`, `Bulma`, `TeXstudio`, `Overleaf`, `Figma`, `Draw.io`. 
-4. Improve my skills in the field of software development and cybersecurity.
-5. Improve my 3D modeling and 3D printing skills.
-6. At least one game to be released on Steam.
-7. At least one app to be released on the App Store.
+
+# Cyber Security, MSc. (Aalborg University Copenhagen)
+Information from my university time at Aalborg University from 2024-2026. 
+
+## Courses
+| Semester | Course | ECTS | Number | Visibility | Repository |
+|---|---|---|---|---|---|
+| First | Project Based Learning | 0 | - | Private | -
+| First | Fundamentals of security and cryptography  | 5 | ESNCYSK1K1 | Private | -
+| First | Dilemmas of Cyber Security | 5 | ESNCYSK1K7 | Private | -
+| First | Security in IoT and cloud architectures | 5 | ESNCYSK1K9 | Private | -
+| First | Network Security | 5 | ESNCYSK1K6 | Private | -
+| Second | Secure software development | 5 | ESNCYSK2K6 | Private | -
+| Second | Hacker space | 5 | ESNCYSK2K5 | Private | -
+| Second | Identity and Access Management | 5 | ESNCYSK2K3 | Private | -
+
+
+
+## Semester Specific Projects
+| Semester | Course | Description | Number | Visibility | Repository |
+|---|---|---|---|---|---|
+| First | Distributed Systems Security | We implemented access control through network microsegmentation, utilizing a scoring algorithm to assess device security based on factors. | ESNCYSK1K1 | Private | - |
+| First | Secure Systems: Attack and Defence | Undergoing. | ESNCYSK2P1 | NDA | - |
+
+## Learning Outcomes
+`Cryptography`, `Hashing`, `Encryption`, `Network Security`, `IoT Security`, `Cloud Security`, `Access Control`, `Security Protocols`, `Security Frameworks`, `Penetration Testing`, `Vulnerability Assessment`, `Incident Response`, `Digital Forensics`, `Web Security`, `Malware Analysis`, `Threat Intelligence`, `Risk Management`, `Identity and Access Management (IAM)`.
