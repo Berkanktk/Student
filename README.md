@@ -26,7 +26,7 @@ Information from my university time at University of Southern Denmark from 2020-
 | Second | Data Management | 5 | T510029102 | Private | - |
 | Third | Human Computer Interaction | 5 | T510031101 | Private | - |
 | Third | Calculus and Linear Algebra | 5 | T510042101 | Private | - |
-| Third | Operating Systems | 5 | T510046101 | Public | [Link](https://github.com/Berkanktk/SE03-OD) |
+| Third | Operating Systems | 5 | T510046101 | Private | - |
 | Third | Web Technologies | 5 | T510048101 | Private | - |
 | Fourth | Artificial Intelligence | 5 | T510009102 | Public | [Link](https://github.com/Berkanktk/SE04-AI) |
 | Fourth | Component-based Systems | 5 | T510035102 | Public | [Link](https://github.com/Berkanktk/SE04-CBSE) |
@@ -50,7 +50,7 @@ Information from my university time at University of Southern Denmark from 2020-
 | Second | VOP-TA2 | Concurrency, Callback interfaces and facades | T510029102 | Private | - |
 | Third | CLA-TA1 | Gauss-jordan | T510042101 | Private | - |
 | Third | CLA-TA2 | Gradient descent | T510042101 | Private | - |
-| Third | HCI-Prototype | Design example | T510031101 | Public | [Link](https://github.com/Berkanktk/SE03-HCI-Prototype) |
+| Third | HCI-Prototype | Design example | T510031101 | private | - |
 | Third | Kubernetes-workshop | Intro to kubernetes | T510046101 | Private | - |
 | Third | OD-TA1 | Database solution behind a TLS proxy. | T510046101 | Private | - |
 | Third | WT-TA1 | Student management system using laravel | T510048101 | Private | - |
