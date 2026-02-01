@@ -73,7 +73,7 @@ Information from my university time at University of Southern Denmark from 2020-
 | Third | Interactive Distributed Software Systems | Operations team for a streaming app | T510030101 | Private | - |
 | Fourth | Grand Theft Gørding | LibGDX game | T510034101 | Public | [Link](https://github.com/amatzen/SE04-SE-G09-SPRO) |
 | Fifth | No Semesterproject | - | - | - | - |
-| Sixth | OSINT Collection and Automation within Battle Management Systems | Bachelorproject | T510012101 | NDA | - |
+| Sixth | Bachelorproject | OSINT Collection and Automation within Battle Management Systems | T510012101 | NDA | - |
 
 ## Programming and markup languages used
 `Java`, `Python`, `JavaScript`, `HTML`, `CSS`, `Sass`, `SQL`, `PHP`, `Dart`, `Kotlin`, `Bash`, `Markdown`, `LaTeX`, `XML`, `JSON`, `YAML`, `Dockerfile`, `Makefile`, `R`, `TypeScript`.
@@ -96,13 +96,14 @@ Information from my university time at Aalborg University from 2024-2026.
 | Second | Hacker space | 5 | ESNCYSK2K5 | Private | -
 | Second | Identity and Access Management | 5 | ESNCYSK2K3 | Private | -
 
-
-
 ## Semester Specific Projects
 | Semester | Course | Description | Number | Visibility | Repository |
 |---|---|---|---|---|---|
-| First | Distributed Systems Security | We implemented access control through network microsegmentation, utilizing a scoring algorithm to assess device security based on factors. | ESNCYSK1K1 | Private | - |
-| First | Secure Systems: Attack and Defence | Undergoing. | ESNCYSK2P1 | NDA | - |
+| First | Distributed Systems Security | We implemented access control through network microsegmentation, utilising a scoring algorithm to assess device security based on factors. | ESNCYSK1K1 | Private | - |
+| Second | Secure Systems: Attack and Defence | Conducted a confidential, full-lifecycle penetration test for an external organization, delivering actionable security recommendations and a customized automated testing solution for continuous security improvement. | ESNCYSK2P1 | NDA | - |
+| Third | Cybersecurity Training | Developed a web-based MVP for interactive cybersecurity training tailored to SMEs, featuring adaptive AI feedback, gamified hands-on learning, and a structured assessment flow that demonstrated strong engagement and measurable learning gains in user testing. | ESNCYSK3P6 | Private | - |
+| Forth | Master Thesis | Undergoing. | ESNCYSK4P1 | Private | - |
 
 ## Learning Outcomes
+
 `Cryptography`, `Hashing`, `Encryption`, `Network Security`, `IoT Security`, `Cloud Security`, `Access Control`, `Security Protocols`, `Security Frameworks`, `Penetration Testing`, `Vulnerability Assessment`, `Incident Response`, `Digital Forensics`, `Web Security`, `Malware Analysis`, `Threat Intelligence`, `Risk Management`, `Identity and Access Management (IAM)`.
