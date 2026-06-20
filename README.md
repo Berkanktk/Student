@@ -22,14 +22,14 @@ Information from my university time at University of Southern Denmark from 2020-
 | First | Object-oriented Programming | 10 | T510024102 | Private | - |
 | Second | Fundamentals of Software engineering | 7,5 | T510025102 | Private | - |
 | Second | Organizational Management | 2,5 | T510025102 | Private | - |
-| Second | Advanced Programming | 5 | T510029102 | Public | [Link](https://github.com/Berkanktk/SE02-VOP) |
+| Second | Advanced Programming | 5 | T510029102 | Private | - |
 | Second | Data Management | 5 | T510029102 | Private | - |
 | Third | Human Computer Interaction | 5 | T510031101 | Private | - |
 | Third | Calculus and Linear Algebra | 5 | T510042101 | Private | - |
 | Third | Operating Systems | 5 | T510046101 | Private | - |
 | Third | Web Technologies | 5 | T510048101 | Private | - |
 | Fourth | Artificial Intelligence | 5 | T510009102 | Public | [Link](https://github.com/Berkanktk/SE04-AI) |
-| Fourth | Component-based Systems | 5 | T510035102 | Public | [Link](https://github.com/Berkanktk/SE04-CBSE) |
+| Fourth | Component-based Systems | 5 | T510035102 | Private | - |
 | Fourth | Discrete Mathematics | 2 | T510040102 | Private | - |
 | Fourth | Algorithms and Datastructures  | 8 | T510040102 | Private | - |
 | Fifth | Cybersecurity | 5 | T510039101 | Public | [Link](https://github.com/Berkanktk/CyberSecurity) |
